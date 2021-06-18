@@ -4,7 +4,7 @@
   <br>
 </div>
 <div align="center">
-  <h2>Para dúvidas acesso o <a href=" ">Índice do Hcode Café ☕ - #87</a> para ver e navegar mais fácilmente nos assuntos passados na live</h2>
+  <h2>Para dúvidas acesso o <a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.MAIO.md#terceira-live-do-m%C3%AAs">Índice do Hcode Café ☕ - #87</a> para ver e navegar mais fácilmente nos assuntos passados na live</h2>
 </div>
 <br>
 <div align="center">
